@@ -1,0 +1,26 @@
+{
+  "name": "deepreel-example",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite",
+    "build": "tsc && vite build",
+    "render": "tsc && node dist/render.js"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^3.3.0",
+    "@revideo/2d": "0.2.13",
+    "@revideo/core": "0.2.13",
+    "@revideo/ffmpeg": "0.2.13",
+    "@revideo/renderer": "0.2.13",
+    "@revideo/vite-plugin": "0.2.13",
+    "dotenv": "^16.4.5",
+    "openai": "^4.39.0"
+  },
+  "devDependencies": {
+    "@revideo/ui": "0.2.13",
+    "typescript": "^5.2.2",
+    "vite": "^4.5"
+  }
+}

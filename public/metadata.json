@@ -1,0 +1,173 @@
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
+  "words": [
+    {
+      "word": "bmw",
+      "start": 0.64,
+      "end": 1.14,
+      "confidence": 0.86024475,
+      "punctuated_word": "BMW,"
+    },
+    {
+      "word": "the",
+      "start": 1.28,
+      "end": 1.4399999,
+      "confidence": 0.9982609,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "iconic",
+      "start": 1.4399999,
+      "end": 1.8399999,
+      "confidence": 0.9994435,
+      "punctuated_word": "iconic"
+    },
+    {
+      "word": "german",
+      "start": 1.8399999,
+      "end": 2.32,
+      "confidence": 0.99888104,
+      "punctuated_word": "German"
+    },
+    {
+      "word": "automaker",
+      "start": 2.32,
+      "end": 2.82,
+      "confidence": 0.98823357,
+      "punctuated_word": "automaker,"
+    },
+    {
+      "word": "has",
+      "start": 3.12,
+      "end": 3.28,
+      "confidence": 0.9998273,
+      "punctuated_word": "has"
+    },
+    {
+      "word": "been",
+      "start": 3.28,
+      "end": 3.52,
+      "confidence": 0.9999827,
+      "punctuated_word": "been"
+    },
+    {
+      "word": "pioneering",
+      "start": 3.52,
+      "end": 4.02,
+      "confidence": 0.9999052,
+      "punctuated_word": "pioneering"
+    },
+    {
+      "word": "luxury",
+      "start": 4.08,
+      "end": 4.56,
+      "confidence": 0.99933237,
+      "punctuated_word": "luxury"
+    },
+    {
+      "word": "and",
+      "start": 4.56,
+      "end": 4.72,
+      "confidence": 0.99980634,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "performance",
+      "start": 4.72,
+      "end": 5.22,
+      "confidence": 0.9993518,
+      "punctuated_word": "performance"
+    },
+    {
+      "word": "vehicles",
+      "start": 5.2799997,
+      "end": 5.7599998,
+      "confidence": 0.99927384,
+      "punctuated_word": "vehicles"
+    },
+    {
+      "word": "for",
+      "start": 5.7599998,
+      "end": 6,
+      "confidence": 0.9997713,
+      "punctuated_word": "for"
+    },
+    {
+      "word": "over",
+      "start": 6,
+      "end": 6.3199997,
+      "confidence": 0.9999392,
+      "punctuated_word": "over"
+    },
+    {
+      "word": "a",
+      "start": 6.3199997,
+      "end": 6.3999996,
+      "confidence": 0.9995177,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "century",
+      "start": 6.3999996,
+      "end": 6.8999996,
+      "confidence": 0.9999393,
+      "punctuated_word": "century."
+    },
+    {
+      "word": "let's",
+      "start": 7.323,
+      "end": 7.643,
+      "confidence": 0.99994415,
+      "punctuated_word": "Let's"
+    },
+    {
+      "word": "dive",
+      "start": 7.643,
+      "end": 7.883,
+      "confidence": 0.999969,
+      "punctuated_word": "dive"
+    },
+    {
+      "word": "into",
+      "start": 7.883,
+      "end": 8.203,
+      "confidence": 0.999064,
+      "punctuated_word": "into"
+    },
+    {
+      "word": "its",
+      "start": 8.203,
+      "end": 8.443,
+      "confidence": 0.99830437,
+      "punctuated_word": "its"
+    },
+    {
+      "word": "rich",
+      "start": 8.443,
+      "end": 8.7630005,
+      "confidence": 0.9994087,
+      "punctuated_word": "rich"
+    },
+    {
+      "word": "history",
+      "start": 8.7630005,
+      "end": 9.163,
+      "confidence": 0.99996805,
+      "punctuated_word": "history"
+    },
+    {
+      "word": "and",
+      "start": 9.163,
+      "end": 9.403,
+      "confidence": 0.999388,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "innovation",
+      "start": 9.403,
+      "end": 9.903,
+      "confidence": 0.9994048,
+      "punctuated_word": "innovation."
+    }
+  ]
+}
